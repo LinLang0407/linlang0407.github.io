@@ -10,7 +10,7 @@
   <p>----write in 2022/10/5 0:02</p>
   </blockquote>
   <hr />
-  <a href="https://linlang0407.github.io/4.html">Discovery Page</a>
+  <a href="https://linlang0407.github.io/Page/4.html">Discovery Page</a>
   <p>This page is make to test the knowledge of HTML as I learn more about it, so it may be hard to read the text in it.</p>
   <br />
   <address>
