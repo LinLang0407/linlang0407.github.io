@@ -7,5 +7,6 @@
   <br /> I have learnt nothing about github before, so I may make many serious mistakes when making this website.</p>
   <p>I will improve this website as I learn more. And I just think this website as a diary of me and a report of my study of HTML.</p>
   <p>----write in 2022/10/5 0:02</p>
+  <a href="https://linlang0407.github.io/4.html">discovery</a>
 </body>
 </html>
