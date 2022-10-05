@@ -19,6 +19,6 @@
   <a href="https://github.com/LinLang0407/linlang0407.github.io">HOMEPAGE</a>
   <p>This is the home page of my programme on the github.</p>
   </address>
-  <img src="https://linlang0407.github.io/0.jpg" alt="MIO"/>
+  <img src="https://linlang0407.github.io/Image/0.jpg" alt="MIO"/>
 </body>
 </html>
