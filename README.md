@@ -12,6 +12,8 @@
   <hr />
   <a href="https://linlang0407.github.io/Page/4.html">Discovery Page</a>
   <p>This page is make to test the knowledge of HTML as I learn more about it, so it may be hard to read the text in it.</p>
+  <a href="https://linlang0407.github.io/Page/Image Album.html">Image Album</a>
+  <p>This page includes many of the pictures of anime characters which I likes. I will upload more in the future.</p>
   <br />
   <address>
   <a href="mailto:3288764778@qq.com">EMAIL</a>
