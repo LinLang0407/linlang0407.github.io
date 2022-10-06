@@ -20,5 +20,6 @@
   <p>This is the home page of my programme on the github.</p>
   </address>
   <img src="https://linlang0407.github.io/Image/0.jpg" alt="MIO"/>
+  <p>I will choose some characters which I like as a main part of my website.</p>
 </body>
 </html>
